@@ -1,0 +1,65 @@
+.link{
+    display: flexbox;
+    margin: left;
+    
+    font-size: x-large
+    
+}
+.fondo{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/058/254/non_2x/abstract-white-background-free-vector.jpg); width: auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border: black;
+ 
+    
+    
+}
+
+.titulos {
+    font-family: fantasy;
+    text-decoration: underline;
+
+}
+
+.borde {
+    border: 4px inset rgba(95, 178, 27, 0.92);
+}
+
+.borde1 {
+    border: 2px solid #28292b;
+    border-radius: 10px;
+}
+
+.centrar {
+
+    display: flex;
+
+    justify-content: space-around;
+   
+}
+
+.botones {
+    border: solid;
+    color: rgb(160, 8, 21);
+    border-radius: 10px;
+    padding: 2px;
+
+}
+
+p {
+    font-size: x-large;
+    color: rgb(0, 0, 0);
+    background-attachment: fixed;
+    
+    
+
+}
+
+
+
+h2 {
+    font-family: fantasy;
+    color: blue;
+    text-decoration: underline;
+}
