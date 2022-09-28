@@ -63,3 +63,10 @@ h2 {
     color: blue;
     text-decoration: underline;
 }
+
+.animacion:hover {
+
+    transition-duration: 500ms;
+    transform :scaleY(2);
+    transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+} 
